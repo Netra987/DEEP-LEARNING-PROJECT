@@ -88,3 +88,7 @@ bash
 ├── mnist_cnn.pth        # Saved model
 ├── README.md            # Documentation
 
+<img width="1493" height="701" alt="Image" src="https://github.com/user-attachments/assets/f09697e9-cea8-4abb-b0f2-48b798ef0f6e" />
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/152b7212-4c9e-4fb4-9441-57d4a5ba0498" />
+<img width="1765" height="447" alt="Image" src="https://github.com/user-attachments/assets/3faf2f75-cb91-4238-8e4e-292aa7fb16dc" />
+
